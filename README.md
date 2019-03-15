@@ -1,0 +1,2 @@
+# smart-farm-diary
+Many farmers do not keep account of their expenses. They do not keep a note of expenditure on seed, fertilizer, pesticides, labour, machinery charges, electricity bills etc. If maintained properly, this information can help farmers take many decisions like cutting out unnecessary expenses. If accompanied by various finance options, the smart farm diary can be a very useful tool for farmers.
